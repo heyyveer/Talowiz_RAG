@@ -5,7 +5,7 @@ This repository contains a notebook-based Retrieval-Augmented Generation (RAG) d
 # Gemini RAG System Notebook
 
 🔗 **Live Kaggle Notebook:**  
-[https://www.kaggle.com/code/yourusername/gemini-rag-system](https://www.kaggle.com/code/veertiiiiwari/gemini-rag-system)
+[NoteBook](https://www.kaggle.com/code/veertiiiiwari/gemini-rag-system)
 
 ## What the notebook does
 
