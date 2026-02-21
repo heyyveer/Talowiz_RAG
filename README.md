@@ -2,7 +2,6 @@
 
 This repository contains a notebook-based Retrieval-Augmented Generation (RAG) demo that uses **Google Gemini** and **PDF context extraction**.
 
-> Note: the notebook is currently saved as `gemini-rag-system` (without `.ipynb` extension). You can still open it as a Jupyter notebook, or rename it to `gemini-rag-system.ipynb` if needed.
 
 ## What the notebook does
 
