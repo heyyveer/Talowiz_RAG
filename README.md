@@ -5,8 +5,6 @@
 
 This repository contains a notebook-based Retrieval-Augmented Generation (RAG) demo that uses **Google Gemini** and **PDF context extraction**.
 
-# Gemini RAG System Notebook
-
 🔗 **Live Kaggle Notebook:**  
 [NoteBook](https://www.kaggle.com/code/veertiiiiwari/gemini-rag-system)
 
